@@ -35,3 +35,21 @@ Add your Tableau dashboard screenshot as `dashboard.png` to display it here.
 2. Open the Python code in Jupyter Notebook or your editor.
 3. Run the program using the sample dataset.
 4. Open the Tableau workbook to explore the dashboard.
+
+##INPUT REQUIREMENTS
+- Student name
+- Class
+- Python marks
+- SQL marks
+- Maths marks
+
+## OUTPUT REQUIREMENTS
+- Student average marks
+- Student grade
+- Pass or fail result
+- Class topper details
+- Class average and pass percentage
+- Tableau charts and dashboard
+
+## CONCLUSION
+The Student Performance Analysis System helps organize student records, analyze academic results, and present useful insights through visualizations and an interactive Tableau dashboard.
